@@ -1,0 +1,17 @@
+{
+  "editor.detectIndentation": true,
+  "editor.tabSize": 4,
+  "colorize.colorized_colors": [
+    "BROWSERS_COLORS",
+    "HEXA",
+    "RGB",
+    "HSL",
+    "OKLAB",
+    "OKLCH"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  }
+}
